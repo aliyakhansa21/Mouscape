@@ -1,0 +1,20 @@
+# Folder hasil build dan cache Unreal Engine (wajib diabaikan)
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# File konfigurasi IDE / Editor (Visual Studio, VS Code, Rider)
+.vscode/
+.vs/
+.idea/
+*.sln
+*.suo
+*.sdf
+*.opendb
+*.VC.db
+
+# File sistem operasi tersembunyi
+.DS_Store
+Thumbs.db
